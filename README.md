@@ -17,8 +17,6 @@ A production-grade Python system that reads balance sheet data with inconsistent
 ### Installation
 
 ```bash
-# Clone or download this repository
-cd "AANYA GOYAL"
 
 # Create virtual environment (optional but recommended)
 python -m venv .venv
